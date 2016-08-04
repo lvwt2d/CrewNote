@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CrewNote</string>
+    <string name="music_owner_choice_prompt">Who\'s music?</string>
+    <string name="crew_music">Crew Music</string>
+    <string name="my_music">My Music</string>
+</resources>
